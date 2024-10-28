@@ -1,0 +1,16 @@
+{
+    "name": "administrator/buyshare",
+    "autoload": {
+        "psr-4": {
+            "Administrator\\Buyshare\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "baphin"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
